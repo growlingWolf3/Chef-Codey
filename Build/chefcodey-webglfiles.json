@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "kp-chefcodey",
+"productVersion": "0.1",
+"dataUrl": "chefcodey-webglfiles.data.unityweb",
+"wasmCodeUrl": "chefcodey-webglfiles.wasm.code.unityweb",
+"wasmFrameworkUrl": "chefcodey-webglfiles.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.29f1"
+}
